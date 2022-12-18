@@ -1,0 +1,15 @@
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/bin/Debug/net6.0/Ex6
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/bin/Debug/net6.0/Ex6.deps.json
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/bin/Debug/net6.0/Ex6.runtimeconfig.json
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/bin/Debug/net6.0/Ex6.dll
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/bin/Debug/net6.0/Ex6.pdb
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/obj/Debug/net6.0/Ex6.csproj.AssemblyReference.cache
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/obj/Debug/net6.0/Ex6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/obj/Debug/net6.0/Ex6.AssemblyInfoInputs.cache
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/obj/Debug/net6.0/Ex6.AssemblyInfo.cs
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/obj/Debug/net6.0/Ex6.csproj.CoreCompileInputs.cache
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/obj/Debug/net6.0/Ex6.dll
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/obj/Debug/net6.0/refint/Ex6.dll
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/obj/Debug/net6.0/Ex6.pdb
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/obj/Debug/net6.0/Ex6.genruntimeconfig.cache
+/Users/catherine/Desktop/QA обучение/Seminar1C#HW8/Ex6/obj/Debug/net6.0/ref/Ex6.dll
